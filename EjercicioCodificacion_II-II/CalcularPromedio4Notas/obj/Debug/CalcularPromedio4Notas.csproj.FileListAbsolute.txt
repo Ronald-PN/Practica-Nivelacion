@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\bin\Debug\CalcularPromedio4Notas.exe.config
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\bin\Debug\CalcularPromedio4Notas.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\bin\Debug\CalcularPromedio4Notas.pdb
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.pdb
+C:\Users\pc\Desktop\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.csprojResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\bin\Debug\CalcularPromedio4Notas.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\CalcularPromedio4Notas\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-II\CalcularPromedio4Notas\bin\Debug\CalcularPromedio4Notas.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-II\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-II\CalcularPromedio4Notas\obj\Debug\CalcularPromedio4Notas.pdb

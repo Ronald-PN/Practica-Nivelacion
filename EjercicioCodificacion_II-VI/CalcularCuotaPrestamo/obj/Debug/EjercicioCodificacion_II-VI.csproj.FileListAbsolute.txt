@@ -1,0 +1,3 @@
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-VI\CalcularCuotaPrestamo\bin\Debug\CalcularCuotaPrestamo.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-VI\CalcularCuotaPrestamo\obj\Debug\CalcularCuotaPrestamo.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-VI\CalcularCuotaPrestamo\obj\Debug\CalcularCuotaPrestamo.pdb

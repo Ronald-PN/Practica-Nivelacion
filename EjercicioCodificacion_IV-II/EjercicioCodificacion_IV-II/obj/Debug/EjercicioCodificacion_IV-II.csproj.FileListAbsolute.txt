@@ -1,0 +1,5 @@
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_IV-II\EjercicioCodificacion_IV-II\bin\Debug\EjercicioCodificacion_IV-II.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_IV-II\EjercicioCodificacion_IV-II\bin\Debug\EjercicioCodificacion_IV-II.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_IV-II\EjercicioCodificacion_IV-II\bin\Debug\EjercicioCodificacion_IV-II.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_IV-II\EjercicioCodificacion_IV-II\obj\Debug\EjercicioCodificacion_IV-II.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_IV-II\EjercicioCodificacion_IV-II\obj\Debug\EjercicioCodificacion_IV-II.pdb

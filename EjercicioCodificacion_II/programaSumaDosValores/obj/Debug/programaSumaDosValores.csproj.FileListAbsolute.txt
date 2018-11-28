@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\bin\Debug\programaSumaDosValores.exe.config
+C:\Users\pc\Desktop\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\bin\Debug\programaSumaDosValores.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\bin\Debug\programaSumaDosValores.pdb
+C:\Users\pc\Desktop\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\obj\Debug\programaSumaDosValores.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\obj\Debug\programaSumaDosValores.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\bin\Debug\programaSumaDosValores.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\obj\Debug\programaSumaDosValores.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\programaSumaDosValores\programaSumaDosValores\obj\Debug\programaSumaDosValores.pdb

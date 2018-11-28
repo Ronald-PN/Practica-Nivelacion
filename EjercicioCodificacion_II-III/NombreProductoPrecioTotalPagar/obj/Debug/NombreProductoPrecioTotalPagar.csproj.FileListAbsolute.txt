@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe.config
+C:\Users\pc\Desktop\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\pc\Desktop\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\pc\Desktop\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe.config
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\pc\Desktop\datos de la memoria\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.csprojResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\NombreProductoPrecioTotalPagar\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.csprojResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-III\NombreProductoPrecioTotalPagar\bin\Debug\NombreProductoPrecioTotalPagar.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-III\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_II-III\NombreProductoPrecioTotalPagar\obj\Debug\NombreProductoPrecioTotalPagar.pdb

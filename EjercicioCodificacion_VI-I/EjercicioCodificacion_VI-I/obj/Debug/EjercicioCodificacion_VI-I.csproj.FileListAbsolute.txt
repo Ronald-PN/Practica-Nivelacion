@@ -1,0 +1,6 @@
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\bin\Debug\EjercicioCodificacion_VI-I.exe.config
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\bin\Debug\EjercicioCodificacion_VI-I.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\bin\Debug\EjercicioCodificacion_VI-I.pdb
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\obj\Debug\EjercicioCodificacion_VI-I.csprojResolveAssemblyReference.cache
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\obj\Debug\EjercicioCodificacion_VI-I.exe
+C:\Users\ronald\Desktop\Mis asuntos\trabajo 1 diplomado\EjercicioCodificacion_VI-I\EjercicioCodificacion_VI-I\obj\Debug\EjercicioCodificacion_VI-I.pdb
